@@ -1,7 +1,7 @@
 # PyPicTagger
 
 ## Description
-This Python script automates the process of classifying images. It reads image URLs from a CSV file, classifies them using the Clarifai API, and writes the results to another CSV file. This project showcases skills in API integration, error handling, and file operations in Python.
+This Python script automates the process of classifying images. It reads image URLs from a CSV file, classifies them using the Clarifai API, and writes the results to another CSV file. .
 
 ## Features
 - **Automated Image Tagger**: Streamlines the process of tagging the images based on their content.
